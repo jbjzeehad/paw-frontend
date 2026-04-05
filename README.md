@@ -1,4 +1,4 @@
-# PAW
+# PAW (Pet Adoption & Donation Platform)
 <p>Service-based website focusing on pet adopption, donation, and resources for pet care</p>
 <p>Admin: admin@mail.com<br>
 Password: ad123AD!<br>
